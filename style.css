@@ -1,0 +1,75 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #eee;
+    border-radius: 1%;
+    margin: 33px 21em 33px 21em;
+    padding: 4em 0 4em 0;    
+}
+
+.text-center {
+    text-align: center;
+}
+
+.description {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin: 1em 4em 1em 4em;
+    padding: 5px 2px 5px 2px;
+    text-align: left;
+    line-height: 20px;
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-border {
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin: 1em 4em 1em 4em;
+    padding: 5px 0 5px 0;
+}
+
+.caption {
+    background-color: #ddd;
+    margin: 1em 5px 0em 5px;
+    padding: 10px 0 10px 0;
+    
+}
+
+.info {
+    margin: 0 4em 0 4em;
+    line-height: 20px;
+}
+
+.end {
+    margin-left: 21em;
+}
+
+h1 {
+   font-size: 63px;
+   font-family: 'Arimo', sans-serif;
+   font-weight: normal;
+
+}
+
+h2 {
+    font-weight: normal;
+    font-size: 30px;
+    font-family: 'Arimo', sans-serif;
+    
+}
+
+h3 {
+    font-size: 24px;
+    font-family: 'Arimo', sans-serif;
+    font-weight: normal;
+}
+
+.thumbnail {
+    font-family: 'Arimo', sans-serif;
+}
